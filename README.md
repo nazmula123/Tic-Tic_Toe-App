@@ -25,7 +25,7 @@ A simple yet beautiful implementation of the classic Tic Tac Toe game using Andr
 
 | Game Board | Game Over Screen |
 |------------|-------------------|
-<img src="https://github.com/nazmula123/Tic-Tic_Toe-App/blob/master/Screenshot%202025-06-16%20174652.png"/><img src="https://github.com/nazmula123/Tic-Tic_Toe-App/blob/master/Screenshot%202025-06-16%20174706.png"/>
+(<img src="https://github.com/nazmula123/Tic-Tic_Toe-App/blob/master/Screenshot%202025-06-16%20174652.png"/>)(<img src="https://github.com/nazmula123/Tic-Tic_Toe-App/blob/master/Screenshot%202025-06-16%20174706.png"/>)
 
 ## 🔧 Technologies Used
 
